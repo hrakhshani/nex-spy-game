@@ -23,3 +23,9 @@ https://github.com/hrakhshani/nex-spy-game
 ## Privacy
 
 NexSpy is designed as a local pass-and-play game. It does not require an account to play.
+
+Privacy policy:
+
+```text
+https://github.com/hrakhshani/nex-spy-game/blob/main/PRIVACY.md
+```

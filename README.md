@@ -65,10 +65,18 @@ Apple requires a public support URL when submitting an app. This repository incl
 After pushing this repository to GitHub, you can use the public URL to that file in App Store Connect, for example:
 
 ```text
-https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/blob/main/SUPPORT.md
+https://github.com/hrakhshani/nex-spy-game/blob/main/SUPPORT.md
 ```
 
-Replace the username and repository name with your actual GitHub details.
+## Privacy Policy
+
+Apple requires a public privacy policy URL for all apps. This repository includes `PRIVACY.md` for that purpose.
+
+Use this URL in App Store Connect after the repository is public:
+
+```text
+https://github.com/hrakhshani/nex-spy-game/blob/main/PRIVACY.md
+```
 
 ## License
 
